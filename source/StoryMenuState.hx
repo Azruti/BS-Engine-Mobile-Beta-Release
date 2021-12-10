@@ -48,8 +48,6 @@ class StoryMenuState extends MusicBeatState
 
 	var difficultySelectors:FlxGroup;
 	var sprDifficultyGroup:FlxTypedGroup<FlxSprite>;
-	var leftArrow:FlxSprite;
-	var rightArrow:FlxSprite;
 
 	override function create()
 	{
